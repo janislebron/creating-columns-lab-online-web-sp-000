@@ -71,17 +71,17 @@ img:hover {
 
 .amiable .column .small.two {
   grid-column: 1 / 2;
-  grid-row: ;
+  grid-row: span 1;
 }
 
 .amiable .column .small.three {
   grid-column: 1 / 2;
-  grid-row: ;
+  grid-row: span 1;
 }
 
 .amiable .column .small.four {
   grid-column: 2 / 3 ;
-  grid-row: ;
+  grid-row: span 1;
 }
 
 .amiable .column .small.five {
